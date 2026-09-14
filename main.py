@@ -1,9 +1,5 @@
 def saludar(nombre):
-<<<<<<< HEAD
-    return f"Hola {nombre}, bienvenido"
-=======
-    return f"Buenas {nombre}, como estas?"
->>>>>>> feature/greeting-b
+    return f"Hola {nombre}, como estas?"
 
 def despedir(nombre):
     return f"Chau {nombre}"
