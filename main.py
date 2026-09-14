@@ -1,5 +1,5 @@
 def saludar(nombre):
-    return f"Hola {nombre}"
+    return f"Buenas {nombre}, como estas?"
 
 def despedir(nombre):
     return f"Chau {nombre}"
